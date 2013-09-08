@@ -1,0 +1,1 @@
+Modern-Menu is licensed under the GNU GPL
