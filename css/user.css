@@ -1,0 +1,67 @@
+.grid figcaption{
+    background:url("/wp-content/uploads/2013/07/Melamine-wood-005.png");
+}
+.grid figcaption h3{
+   height: 42px;
+    width: 145px;
+    left: -20px;
+    background: url("/wp-content/uploads/2013/07/zigzag-small.png") repeat-x;
+    text-align: center;
+    padding: 6px;
+    /*background-position-y: 0px;*/
+    z-index: 202;
+    position: relative;
+    top: -45px;
+}
+
+.grid figcaption .item-title-splash{
+    width: 144px;
+    height: 50px;
+    margin-left: -20px;
+    z-index: -1;
+    background-color: #fff;
+    -webkit-box-shadow: #404040 0px 0px 3px;
+    -moz-box-shadow: #404040 0px 0px 3px;
+    box-shadow: #404040 0px 0px 3px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    opacity: 0.64;
+}
+
+.grid figcaption a{
+    color: #786d14;
+    background: url("/wp-content/themes/delicieux_v1-02/images/stunning-button-gradient.png") repeat-x;
+    background-color: #e9d424;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "HelveticaNeue", "Helvetica Neue", Arial, sans-serif;
+}
+
+.mmenu-first-column-border{
+    position: absolute;  
+    width: 50%;  
+    height: 1150px;  
+    background-color: rgb(204, 134, 134);  
+    top: 100px;  
+    left: -56px;
+    -webkit-box-shadow: #404040 0px 0px 3px;  
+    -moz-box-shadow: #404040 0px 0px 3px;  
+    box-shadow: #404040 0px 0px 3px;
+    opacity: 0.64;
+}
+.mmenu-second-column-border{
+    position: absolute;  
+    width: 50%;  
+    height: 1150px;  
+    background-color: rgb(231, 235, 132);  
+    top: 100px;  
+    left: 273px;
+    -webkit-box-shadow: #404040 0px 0px 3px;  
+    -moz-box-shadow: #404040 0px 0px 3px;  
+    box-shadow: #404040 0px 0px 3px;
+    opacity: 0.64;
+}
+#wpadminbar{
+    display:none;
+}
